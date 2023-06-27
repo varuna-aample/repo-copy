@@ -1,0 +1,8 @@
+{
+  "name": "repo",
+  "version": "0.1.1",
+  "repository": "git@github.com:varuna-aample/repo.git",
+  "author": "varuna.s <varuna.s@aample.in>",
+  "license": "MIT",
+  "dependencies": {}
+}
